@@ -9,7 +9,8 @@
 
   <static-files>
       <include path="/**.html" expiration ="access 1 months" />
-      <include path="/**" expiration ="access 1 months" />
+      <include path="/tc_verify.txt" expiration ="access 1 months" />
+      <include path="/static/**" expiration ="access 1 months" />
   </static-files>
 
 </du-web-app>
