@@ -17,6 +17,6 @@
 </servlet-mapping>
 
   <welcome-file-list>
-    <welcome-file>/static/navigator.html</welcome-file>
+    <welcome-file>navigator.html</welcome-file>
   </welcome-file-list>
 </web-app>
